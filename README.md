@@ -53,4 +53,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/abhishek-031-k/Leetcode/tree/master/1517-find-users-with-valid-e-mails) |
 | [1683-invalid-tweets](https://github.com/abhishek-031-k/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishek-031-k/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+| [1907-count-salary-categories](https://github.com/abhishek-031-k/Leetcode/tree/master/1907-count-salary-categories) |
 <!---LeetCode Topics End-->
