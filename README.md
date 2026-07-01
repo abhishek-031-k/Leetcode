@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0550-game-play-analysis-iv](https://github.com/abhishek-031-k/Leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0584-find-customer-referee](https://github.com/abhishek-031-k/Leetcode/tree/master/0584-find-customer-referee) |
+| [0585-investments-in-2016](https://github.com/abhishek-031-k/Leetcode/tree/master/0585-investments-in-2016) |
 | [0595-big-countries](https://github.com/abhishek-031-k/Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/abhishek-031-k/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/abhishek-031-k/Leetcode/tree/master/1148-article-views-i) |
