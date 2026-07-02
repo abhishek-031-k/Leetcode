@@ -18,6 +18,7 @@ public:
          int row = it.second.first;
          int col = it.second.second;
         if(dis > dist[row][col])continue;
+        if(row == n - 1 && col == m - 1)return dis < health;
          for(int i = 0; i < 4; i++){
             int nrow = drow[i] + row, ncol = dcol[i] + col;
             if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m){
