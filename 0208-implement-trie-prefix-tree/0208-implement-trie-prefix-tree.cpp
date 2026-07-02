@@ -1,4 +1,5 @@
-struct Node{
+class Node{
+    public:
     Node* links[26];
     bool flag = false;
     bool containKey(char ch){
