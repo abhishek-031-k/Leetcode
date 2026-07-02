@@ -19,6 +19,7 @@ public:
             int dis = it.first;
             int row = it.second.first;
             int col = it.second.second;
+             if(dis > dist[row][col]) continue;
             for(int i = 0; i < 4; i++){
                 int nrow = drow[i] + row;
                 int ncol = dcol[i] + col;
