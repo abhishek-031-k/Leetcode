@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/abhishek-031-k/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/abhishek-031-k/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
