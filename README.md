@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishek-031-k/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishek-031-k/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhishek-031-k/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/abhishek-031-k/Leetcode/tree/master/2076-process-restricted-friend-requests) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Database
 |  |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/abhishek-031-k/Leetcode/tree/master/2076-process-restricted-friend-requests) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -106,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -146,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+## Tree
+|  |
+| ------- |
+| [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 <!---LeetCode Topics End-->
