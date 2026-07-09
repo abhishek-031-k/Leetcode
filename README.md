@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
 | [1267-count-servers-that-communicate](https://github.com/abhishek-031-k/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishek-031-k/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abhishek-031-k/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
 | [1267-count-servers-that-communicate](https://github.com/abhishek-031-k/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abhishek-031-k/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhishek-031-k/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/abhishek-031-k/Leetcode/tree/master/2076-process-restricted-friend-requests) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
 | [1267-count-servers-that-communicate](https://github.com/abhishek-031-k/Leetcode/tree/master/1267-count-servers-that-communicate) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abhishek-031-k/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/abhishek-031-k/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Database
@@ -96,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/abhishek-031-k/Leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/abhishek-031-k/Leetcode/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2076-process-restricted-friend-requests](https://github.com/abhishek-031-k/Leetcode/tree/master/2076-process-restricted-friend-requests) |
