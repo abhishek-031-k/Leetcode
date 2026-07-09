@@ -52,11 +52,9 @@ public:
     int makeConnected(int n, vector<vector<int>>& connections) {
         int size = connections.size();
         if(n-1 > size)return -1;
-        int extra = 0;
         DisjointSet ds(n);
         for(auto &it: connections){
-            if(ds.find(it[0]) == ds.find(it[1]))extra++;
-            else ds.unionBySize(it[0], it[1]);
+         ds.unionBySize(it[0], it[1]);
         }
         int count = 0;
         for(int i = 0; i < n; i++){
