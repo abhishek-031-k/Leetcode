@@ -30,7 +30,7 @@ DisJointSet(int n){
 class Solution {
 public:
     int reachableNodes(int n, vector<vector<int>>& edges, vector<int>& restricted) {
-        set<int>st(restricted.begin(), restricted.end());
+        unordered_set<int>st(restricted.begin(), restricted.end());
         DisJointSet ds(n);
         for(auto &it: edges){
             if(st.count(it[0]) || st.count(it[1]))continue;
