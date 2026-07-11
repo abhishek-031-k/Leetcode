@@ -3,15 +3,12 @@ public:
 
    void solve(TreeNode* root, int& sum){
     if(root == NULL)return;
-    if(root != NULL){
       solve(root->right, sum);
       int x = root->val;
       root->val += sum;
       sum += x;
-    }
-    if(root != NULL){
-        solve(root->left, sum);
-    }
+       solve(root->left, sum);
+    
    }
 
 
