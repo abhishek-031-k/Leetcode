@@ -2,7 +2,6 @@ class Solution {
 public:
 
     TreeNode* bstToGst(TreeNode* root) {
-    vector<int>ans;
        stack<TreeNode*>st;
        int sum = 0;
        if(root == NULL)return root;
@@ -19,7 +18,6 @@ public:
             temp->val += sum;
                 sum += x;
             st.pop();
-            ans.push_back(temp->val);
             temp = temp->left;
         }
        }
