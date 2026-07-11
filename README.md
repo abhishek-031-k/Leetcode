@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Counting
@@ -178,5 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
