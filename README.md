@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/abhishek-031-k/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/abhishek-031-k/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishek-031-k/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1331-rank-transform-of-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1331-rank-transform-of-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/abhishek-031-k/Leetcode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Math
 |  |
