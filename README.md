@@ -193,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/abhishek-031-k/Leetcode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
