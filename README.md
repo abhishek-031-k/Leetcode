@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
 | [3620-network-recovery-pathways](https://github.com/abhishek-031-k/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/abhishek-031-k/Leetcode/tree/master/1291-sequential-digits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
