@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3620-network-recovery-pathways](https://github.com/abhishek-031-k/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -207,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
