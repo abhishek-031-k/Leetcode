@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishek-031-k/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
+| [1260-shift-2d-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/abhishek-031-k/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/abhishek-031-k/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishek-031-k/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
+| [1260-shift-2d-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/abhishek-031-k/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/abhishek-031-k/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -232,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/abhishek-031-k/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
