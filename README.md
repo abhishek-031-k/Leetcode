@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishek-031-k/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0063-unique-paths-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/abhishek-031-k/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhishek-031-k/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0213-house-robber-ii) |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/abhishek-031-k/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/abhishek-031-k/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0213-house-robber-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
