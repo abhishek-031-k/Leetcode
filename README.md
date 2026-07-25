@@ -183,12 +183,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/abhishek-031-k/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhishek-031-k/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3613-minimize-maximum-component-cost](https://github.com/abhishek-031-k/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
 ## Math
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/abhishek-031-k/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishek-031-k/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
