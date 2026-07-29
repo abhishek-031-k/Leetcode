@@ -1,7 +1,5 @@
 class Solution {
 public:
-   
- 
 
     int solve(int amount, vector<int>&coins){
         int n = coins.size();
@@ -13,11 +11,7 @@ public:
          unsigned long long nottake = dp[ind-1][t];
          unsigned long long take = 0;
           if(coins[ind] <= t)take = dp[ind][t - coins[ind]];
-     if (take + nottake < 0) {
-    cout << ind << " " << t << " "
-         << take << " " << nottake << endl;
-}
-dp[ind][t] = take + nottake;
+            dp[ind][t] = take + nottake;
       }
       }
       return int(dp[n-1][amount]);
