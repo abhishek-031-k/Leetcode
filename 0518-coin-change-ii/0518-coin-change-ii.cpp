@@ -1,21 +1,29 @@
 class Solution {
 public:
+   
+ 
 
-    int solve(int ind, int amount, vector<int>&coins,  vector<vector<int>>&dp){
-     if(amount == 0)return 1;
-     if(amount < 0 || ind < 0)return 0;
+    int solve(int amount, vector<int>&coins){
+        int n = coins.size();
+        vector<vector<unsigned long long>>dp(n, vector<unsigned long long>(amount+1, 0));
+        for(unsigned long long i = 0; i <= amount; i++)dp[0][i] = (i % coins[0] == 0);
 
-       if(dp[ind][amount] != -1)return dp[ind][amount];
-
-        int nottake = solve(ind-1, amount, coins, dp);
-        int take = 0;
-        if(coins[ind] <= amount)take = solve(ind, amount - coins[ind], coins, dp);
-        return dp[ind][amount] = take + nottake;
+      for(unsigned long long ind = 1; ind < n; ind++){
+      for(unsigned long long t = 0; t <= amount; t++){
+         unsigned long long nottake = dp[ind-1][t];
+         unsigned long long take = 0;
+          if(coins[ind] <= t)take = dp[ind][t - coins[ind]];
+     if (take + nottake < 0) {
+    cout << ind << " " << t << " "
+         << take << " " << nottake << endl;
+}
+dp[ind][t] = take + nottake;
+      }
+      }
+      return int(dp[n-1][amount]);
     }
 
     int change(int amount, vector<int>& coins) {
-        int n = coins.size();
-        vector<vector<int>>dp(n, vector<int>(amount+1, -1));
-        return solve(n-1, amount, coins, dp);
+        return solve(amount, coins);
     }
 };
