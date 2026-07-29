@@ -1,23 +1,24 @@
 class Solution {
 public:
  
-    int solve(int ind, int target, vector<int>&nums, vector<vector<int>>&dp){
+    int solve(int ind, int target, vector<int>&nums){
       int n = nums.size();
-       
+        vector<int>prev(target+1, 0), curr(target+1, 0);
         for (int i = 0; i <= target; i++) {
-            if (i == 0 && nums[0] == 0)dp[0][0] = 2;
-            else if (i == 0 || nums[0] == i)dp[0][i] = 1;
+            if (i == 0 && nums[0] == 0)prev[0] = 2;
+            else if (i == 0 || nums[0] == i)prev[i] = 1;
         }
 
         for(int ind = 1; ind < n; ind++){
         for(int t = 0; t <= target; t++){
-            int nottake = dp[ind-1][t];
+            int nottake = prev[t];
             int take = 0;
-            if(nums[ind] <= t)take = dp[ind-1][t-nums[ind]];
-            dp[ind][t] = take + nottake;
+            if(nums[ind] <= t)take = prev[t-nums[ind]];
+            curr[t] = take + nottake;
         }
+        prev = curr;
         }
-       return dp[n-1][target];
+       return prev[target];
     }
 
     int findTargetSumWays(vector<int>& nums, int d) {
@@ -26,7 +27,7 @@ public:
    
        if((totalsum - d) < 0 || (totalsum - d) % 2)return false;
        int target = (totalsum - d)/2;
-       vector<vector<int>>dp(n, vector<int>(target+1, 0));
-       return solve(n-1, target, nums, dp);
+      
+       return solve(n-1, target, nums);
     }
 };
