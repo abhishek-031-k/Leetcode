@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishek-031-k/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek-031-k/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishek-031-k/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/abhishek-031-k/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhishek-031-k/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
