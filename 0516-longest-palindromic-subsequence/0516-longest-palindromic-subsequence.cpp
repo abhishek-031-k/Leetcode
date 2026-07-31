@@ -1,21 +1,21 @@
 class Solution {
 public:
-    int solve(string& s, string& t, int n, int m) {
-        vector<int>prev(m + 1, 0), curr(m+1, 0);
+    int solve(string& s, string& t, int n) {
+        vector<int>prev(n + 1, 0), curr(n+1, 0);
         for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= m; j++) {
+            for (int j = 1; j <= n; j++) {
                 if (s[i - 1] == t[j - 1])curr[j] = 1 + prev[j - 1];
                 else  curr[j] = max(prev[j], curr[j - 1]);
             }
             prev = curr;
         }
-        return prev[m];
+        return prev[n];
     }
 
     int longestPalindromeSubseq(string s) {
         string t = s;
         reverse(t.begin(), t.end());
-        int n = s.size(), m = t.size();
-        return solve(s, t, n, m);
+        int n = s.size();
+        return solve(s, t, n);
     }
 };
