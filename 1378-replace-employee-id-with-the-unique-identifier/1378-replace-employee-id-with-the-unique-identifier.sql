@@ -1,4 +1,6 @@
-select o.unique_id,
-e.name from Employees as e
-left join EmployeeUNI as o
-on e.id = o.id
+select
+U.unique_id,
+E.name
+from Employees as E
+left join EmployeeUNI as U
+on E.id = U.id
