@@ -1,18 +1,15 @@
 class Solution {
 public:
 
-    int solve(int i, int j, vector<int>&nums, vector<vector<int>>&dp){
-       if(i == j)return nums[i];
-       if(dp[i][j] != -1)return dp[i][j];
-        int leftpick = nums[i] - solve(i+1, j, nums, dp);
-        int rightpick =  nums[j] - solve(i, j-1, nums, dp);
-       return dp[i][j] = max(leftpick, rightpick);
-    }
-
     bool predictTheWinner(vector<int>& nums) {
         int n = nums.size();
-        vector<vector<int>>dp(n, vector<int>(n, -1));
-        int sum = solve(0, n-1, nums, dp);
-        return sum >= 0 ? true : false;
+         vector<vector<int>>dp(n+1, vector<int>(n+1, 0));
+      for(int i = 0; i < n; i++)dp[i][i] = nums[i];
+      for(int i = n-1; i >= 0; i--){
+      for(int j = i+1; j < n; j++){
+           dp[i][j] = max(nums[i] - dp[i+1][j], nums[j] - dp[i][j-1]);
+      }
+      }
+        return dp[0][n-1] >= 0 ? true : false;
     }
 };
