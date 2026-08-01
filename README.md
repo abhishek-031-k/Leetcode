@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0229-majority-element-ii) |
 | [0322-coin-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishek-031-k/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishek-031-k/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0518-coin-change-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishek-031-k/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -320,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhishek-031-k/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
