@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhishek-031-k/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3731-find-missing-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishek-031-k/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3613-minimize-maximum-component-cost](https://github.com/abhishek-031-k/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
+| [3731-find-missing-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Math
 |  |
