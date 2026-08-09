@@ -5,7 +5,7 @@ public:
         if(i >= n) return 0;
         if(dp[i][m] != -1) return dp[i][m];
         int ans = 0;
-         for(int x = 1; x <= 2*m && i+x <= n; x++) {
+         for(int x = 1; x <= min(2*m, i+x); x++) {
             int next = solve(i+x, max(m, x), piles, suff, dp);
             ans = max(ans, suff[i] - next);
         }
