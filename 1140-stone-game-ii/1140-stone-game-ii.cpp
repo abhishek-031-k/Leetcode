@@ -13,7 +13,7 @@ public:
 
         prefSum[0] = 0;
         for(int i = 1; i<=n; i++) prefSum[i] = prefSum[i-1] + arr[i];
-        int dp[n+5][n+5];
+        int dp[n+2][n+2];
         memset(dp, -1, sizeof(dp));
         auto findAns = [&](auto &self, int l, int r) -> int{
             if(l>=n+1) return 0;
