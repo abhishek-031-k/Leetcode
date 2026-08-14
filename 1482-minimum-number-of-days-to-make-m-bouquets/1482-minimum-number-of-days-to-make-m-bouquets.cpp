@@ -1,6 +1,5 @@
 class Solution {
 public:
-
     bool solve(int mid, vector<int>&bloomDay, int m, int k){
        int count = 0, no_of_bouquet = 0;
        for(int i = 0; i < bloomDay.size(); i++){
@@ -18,8 +17,7 @@ public:
 
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n = bloomDay.size();
-        long long t = 1LL*m*1LL*k;
-        if(t > n)return -1;
+        if(1LL*m*1LL*k > n)return -1;
         int low = INT_MAX, high = 0;
         for(auto &it: bloomDay){
             low = min(low, it);
