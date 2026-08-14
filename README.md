@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhishek-031-k/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
+| [0875-koko-eating-bananas](https://github.com/abhishek-031-k/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhishek-031-k/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/abhishek-031-k/Leetcode/tree/master/0704-binary-search) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhishek-031-k/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/abhishek-031-k/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/abhishek-031-k/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
