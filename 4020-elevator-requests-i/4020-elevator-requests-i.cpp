@@ -1,11 +1,8 @@
 class Solution {
 public:
     int elevatorRequests(int n, vector<int>& requests) {
-        int ans = 0, last = 0;
-        for(auto &it: requests){
-            ans += abs(last - it);
-            last = it;
-        }
+        int ans = requests[0];
+        for(int i = 1; i < requests.size(); i++)ans += abs(requests[i] - requests[i-1]);
         return ans;
     }
 };
