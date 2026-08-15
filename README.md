@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/abhishek-031-k/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhishek-031-k/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Binary Search
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3108-minimum-cost-walk-in-weighted-graph](https://github.com/abhishek-031-k/Leetcode/tree/master/3108-minimum-cost-walk-in-weighted-graph) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhishek-031-k/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Tree
 |  |
 | ------- |
