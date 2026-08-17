@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-031-k/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhishek-031-k/Leetcode/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/abhishek-031-k/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-031-k/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/abhishek-031-k/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishek-031-k/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/abhishek-031-k/Leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0904-fruit-into-baskets](https://github.com/abhishek-031-k/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-031-k/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishek-031-k/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhishek-031-k/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
