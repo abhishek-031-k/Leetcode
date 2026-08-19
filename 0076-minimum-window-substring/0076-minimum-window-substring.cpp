@@ -1,0 +1,26 @@
+class Solution {
+public:
+
+    string minWindow(string s, string t) {
+     int n = s.size(), m = t.size();   
+     int sind = -1, count = 0,minlen = INT_MAX;
+        map<char, int>mpp;
+        for(auto &it: t)mpp[it]++;
+        int  l = 0, r = 0;
+        while(r < n){
+            if(mpp[s[r]] > 0)count++;
+            mpp[s[r]]--;
+            while(count == m){
+              if(r-l+1 < minlen){
+                minlen = r-l+1;
+                sind = l;
+              }
+              mpp[s[l]]++;
+              if(mpp[s[l]] > 0)count--;
+              l++;  
+            }
+            r++;
+        } 
+        return sind == -1 ? "" : s.substr(sind,minlen);  
+    }
+};
