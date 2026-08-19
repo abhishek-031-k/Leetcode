@@ -4,7 +4,7 @@ public:
     string minWindow(string s, string t) {
      int n = s.size(), m = t.size();   
      int sind = -1, count = 0,minlen = INT_MAX;
-        map<char, int>mpp;
+        unordered_map<char, int>mpp;
         for(auto &it: t)mpp[it]++;
         int  l = 0, r = 0;
         while(r < n){
