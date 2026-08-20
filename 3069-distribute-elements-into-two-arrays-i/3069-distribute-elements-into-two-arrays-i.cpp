@@ -7,14 +7,8 @@ public:
         ans2.push_back(nums[1]);
 
         for(int i = 2; i < n; i++){
-            if(last1 > last2){
-                ans1.push_back(nums[i]);
-             last1 = nums[i];   
-            }
-            else {
-                ans2.push_back(nums[i]);
-                last2 = nums[i];
-            }
+           if(ans1.back() > ans2.back())ans1.push_back(nums[i]);
+           else ans2.push_back(nums[i]);
         }
         for(auto &it: ans2)ans1.push_back(it);
         return ans1;
