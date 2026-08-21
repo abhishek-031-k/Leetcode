@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhishek-031-k/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0826-most-profit-assigning-work](https://github.com/abhishek-031-k/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Sorting
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/abhishek-031-k/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek-031-k/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -424,10 +426,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abhishek-031-k/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
