@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/abhishek-031-k/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/abhishek-031-k/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/abhishek-031-k/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/abhishek-031-k/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/abhishek-031-k/Leetcode/tree/master/0070-climbing-stairs) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/abhishek-031-k/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0148-sort-list) |
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/abhishek-031-k/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/abhishek-031-k/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek-031-k/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -430,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/abhishek-031-k/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/abhishek-031-k/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/abhishek-031-k/Leetcode/tree/master/0496-next-greater-element-i) |
