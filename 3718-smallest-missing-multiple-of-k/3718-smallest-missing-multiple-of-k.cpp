@@ -6,7 +6,7 @@ public:
         int count = 1;
         while(true){
             int num = k * count;
-            if(st.count(num) == 0) return num;
+            if(!st.count(num)) return num;
             count++;
         }
         return -1;
