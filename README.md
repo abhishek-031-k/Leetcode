@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishek-031-k/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhishek-031-k/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/abhishek-031-k/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/abhishek-031-k/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0322-coin-change) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
 ## Counting
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/abhishek-031-k/Leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Backtracking
 |  |
@@ -559,4 +563,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/abhishek-031-k/Leetcode/tree/master/0901-online-stock-span) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
