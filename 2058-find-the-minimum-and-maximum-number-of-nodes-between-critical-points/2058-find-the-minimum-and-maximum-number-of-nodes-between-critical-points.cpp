@@ -5,7 +5,7 @@ public:
        if(head == NULL || head->next == NULL)return {-1, -1};
        ListNode* t1 = head;
        ListNode* t2 = head->next; 
-       int i = 1;
+       int i = 0;
        while(t2->next != NULL){
          if((t2->val > t2->next->val && t2->val > t1->val) ||
          (t2->val < t2->next->val && t2->val < t1->val))v.push_back(i);
