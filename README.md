@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishek-031-k/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/abhishek-031-k/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/abhishek-031-k/Leetcode/tree/master/0496-next-greater-element-i) |
