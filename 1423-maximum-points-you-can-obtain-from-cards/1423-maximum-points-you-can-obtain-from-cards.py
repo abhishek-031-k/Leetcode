@@ -5,7 +5,7 @@ class Solution:
         n = len(cardPoints)
         for i in range(0, k):
             totalsum += cardPoints[i]
-        maxi = max(maxi, totalsum)
+        maxi = totalsum
         for i in range(k-1, -1, -1):
             totalsum -= cardPoints[i]
             totalsum += cardPoints[n-k+i]
