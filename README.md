@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/abhishek-031-k/Leetcode/tree/master/0778-swim-in-rising-water) |
 | [0826-most-profit-assigning-work](https://github.com/abhishek-031-k/Leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/abhishek-031-k/Leetcode/tree/master/0827-making-a-large-island) |
+| [0860-lemonade-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/abhishek-031-k/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/abhishek-031-k/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/abhishek-031-k/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/abhishek-031-k/Leetcode/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek-031-k/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0826-most-profit-assigning-work](https://github.com/abhishek-031-k/Leetcode/tree/master/0826-most-profit-assigning-work) |
+| [0860-lemonade-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-031-k/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/abhishek-031-k/Leetcode/tree/master/1927-sum-game) |
