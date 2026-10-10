@@ -4,7 +4,7 @@ class Solution:
         n = len(intervals)
         i = 0
         while(i < n and intervals[i][1] < newInterval[0]):
-            ans.append([intervals[i][0], intervals[i][1]])
+            ans.append(intervals[i])
             i += 1
 
         while(i < n and intervals[i][0] <= newInterval[1]):
@@ -14,6 +14,6 @@ class Solution:
 
         ans.append([newInterval[0], newInterval[1]])
         while(i < n):
-            ans.append([intervals[i][0], intervals[i][1]])
+            ans.append(intervals[i])
             i += 1
         return ans
