@@ -9,11 +9,11 @@ public:
         }
         else if(c == ')'){
             mini--;
-            maxi++;
+            maxi--;
         }
         else{
             mini--;
-            maxi--;
+            maxi++;
         }
         if(mini < 0)mini = 0;
         if(maxi < 0)return false;
