@@ -4,12 +4,12 @@ class Solution:
         n = len(nums)
         while(r < n):
             if(nums[r] == 0):
-               zero += 1
-            if(zero > k):
+               k -= 1
+            if(k < 0):
                 if(nums[l] == 0):
-                    zero -= 1
+                    k += 1
                 l += 1
-            if(zero <= k):
+            if(k >= 0):
                 maxi = max(maxi, r-l+1)
             r += 1
         return maxi
