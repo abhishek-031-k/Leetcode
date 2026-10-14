@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/abhishek-031-k/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishek-031-k/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/abhishek-031-k/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0564-find-the-closest-palindrome](https://github.com/abhishek-031-k/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek-031-k/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-031-k/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhishek-031-k/Leetcode/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/abhishek-031-k/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/abhishek-031-k/Leetcode/tree/master/0486-predict-the-winner) |
+| [0564-find-the-closest-palindrome](https://github.com/abhishek-031-k/Leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishek-031-k/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/abhishek-031-k/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/abhishek-031-k/Leetcode/tree/master/0877-stone-game) |
