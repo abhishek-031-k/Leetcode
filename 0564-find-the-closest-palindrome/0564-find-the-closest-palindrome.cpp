@@ -54,7 +54,6 @@ public:
         long long res1 = make_pal(l, flag);
         if(res1 == num) res1 = make_pal(l+1, flag);
         long long res2 = make_pal(r, flag);
-        cout<<res1<<' '<<res2<<endl;
         if(res2 == num) res2 = make_pal(r-1, flag);
         return (res1 - num)<(num - res2)?to_string(res1):to_string(res2);
 
