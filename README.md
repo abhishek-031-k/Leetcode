@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishek-031-k/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishek-031-k/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhishek-031-k/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/abhishek-031-k/Leetcode/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishek-031-k/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhishek-031-k/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhishek-031-k/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -743,4 +745,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/abhishek-031-k/Leetcode/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/abhishek-031-k/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-031-k/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhishek-031-k/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/abhishek-031-k/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
