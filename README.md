@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-031-k/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1529-minimum-suffix-flips](https://github.com/abhishek-031-k/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1927-sum-game](https://github.com/abhishek-031-k/Leetcode/tree/master/1927-sum-game) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/abhishek-031-k/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/abhishek-031-k/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/abhishek-031-k/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/abhishek-031-k/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1529-minimum-suffix-flips](https://github.com/abhishek-031-k/Leetcode/tree/master/1529-minimum-suffix-flips) |
 | [1927-sum-game](https://github.com/abhishek-031-k/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/abhishek-031-k/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishek-031-k/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
