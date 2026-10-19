@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhishek-031-k/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek-031-k/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2029-stone-game-ix](https://github.com/abhishek-031-k/Leetcode/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhishek-031-k/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/abhishek-031-k/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishek-031-k/Leetcode/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2368-reachable-nodes-with-restrictions](https://github.com/abhishek-031-k/Leetcode/tree/master/2368-reachable-nodes-with-restrictions) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/abhishek-031-k/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhishek-031-k/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/abhishek-031-k/Leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhishek-031-k/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/abhishek-031-k/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/abhishek-031-k/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3613-minimize-maximum-component-cost](https://github.com/abhishek-031-k/Leetcode/tree/master/3613-minimize-maximum-component-cost) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishek-031-k/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/abhishek-031-k/Leetcode/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/abhishek-031-k/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/abhishek-031-k/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/abhishek-031-k/Leetcode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishek-031-k/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhishek-031-k/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
